@@ -1,10 +1,10 @@
 # VidForge — Video Converter for Windows
 
-Pick a video, choose a format and press Convert - VidForge turns it into MP4, MKV, AVI, MOV, WEBM, an animated GIF or pulls the audio out to MP3.
+Free video converter for Windows - MP4, MKV, AVI, MOV, WEBM, GIF, MP3
 
-## Download
+![VidForge](screenshot.png)
 
-[Download the latest release](../../releases/latest) — portable build, no installer and no account.
+**[⬇ Download for Windows](../../releases/latest)** — free, no ads, no account, no sign-up. One small file, unzip and run.
 
 ## What it does
 
@@ -15,10 +15,21 @@ Pick a video, choose a format and press Convert - VidForge turns it into MP4, MK
 - The window stays responsive while it converts
 - Free and open source, no ads and no telemetry
 
+## How to use
+
+1. Open VidForge and press Browse to pick a video.
+2. Choose the target format: MP4, MKV, AVI, MOV, WEBM, GIF or MP3.
+3. Press Convert - the window stays usable while it works.
+4. The converted file appears next to the original.
+
 ## Requirements
 
-Windows 10 or 11, 64-bit. No admin rights, nothing written to the registry.
+Windows 10 or 11, 64-bit. No admin rights needed and nothing is written to the registry. ffmpeg is built in, so there is nothing else to install.
+
+## Privacy
+
+Everything happens on your PC. Nothing is uploaded, no telemetry, no ads.
 
 ## Licence
 
-MIT. Free, no ads, no telemetry.
+MIT — free to use, free to share.
