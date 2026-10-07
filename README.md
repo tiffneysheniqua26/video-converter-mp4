@@ -1,6 +1,10 @@
-# VidForge — Free Video Converter for Windows with Drag-and-Drop Batch Conversion
+# VidForge — Free YouTube Video Converter for Windows (MP4 and MP3)
 
-VidForge is a portable video converter for Windows 10 and Windows 11 that turns MP4, MKV, AVI, MOV, WEBM clips into whatever format you actually need — plus GIFs and MP3 audio rips on the side. It is free, needs no account, leaves no watermark, and does the whole job on your own machine. If you have been copy-pasting files into browser tools and watching the upload bar crawl, vidforge removes that step entirely.
+VidForge is a free YouTube video converter for Windows 10 and Windows 11 that turns local MP4, MKV, AVI, MOV, and WEBM clips into the exact formats YouTube and its viewers play back cleanly — plus MP3 rips for audio-only uploads and GIFs for thumbnails or chat. It is free, needs no account, leaves no watermark, and does the whole job on your own machine. If you have been copy-pasting files into browser tools and watching the upload bar crawl, vidforge removes that step entirely.
+
+## Why use it as a YouTube video converter?
+
+YouTube is happiest with clean H.264 MP4 at a sensible bitrate, and most creator headaches start when a camera, screen recorder, or old editor hands you something else — an MKV with multiple audio tracks, a MOV from a phone, a WEBM download, an AVI from a legacy tool. VidForge normalises any of those into an MP4 that uploads without re-encoding on YouTube's side, or into an MP3 if you only need the audio for a podcast cut or background track. Everything happens locally, so there is no 500 MB web limit and no second upload before the real one.
 
 ## Download
 
